@@ -20,7 +20,7 @@ for n in range(2):
         print("winner contiue next Raund:2")  
         print("raund:2")
         score=3
-for i in range (3):
+for i in range (3): 
     num1=random.randint(1,50)
     num2=random.randint(1,50)
     result=num1+num2
